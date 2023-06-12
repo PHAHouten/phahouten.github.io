@@ -7,4 +7,4 @@ Within the ERC-project "An Empire of 2000 Cities" I have written my doctoral the
 The first map has been published. Check the description [here](https://github.com/PHAHouten/CivitatesHispaniae) or go directly to the [Juridical status map](https://phahouten.github.io/CivitatesHispaniae/#6/39.835/-0.284)
 
 
-Newly published maps will be announced on my personal Twitter account: https://twitter.com/HoutenPieter 
+Newly published maps will be announced on my personal [Twitter account](https://twitter.com/HoutenPieter)
