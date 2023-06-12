@@ -5,6 +5,9 @@ For my research I combine archaeological, epigraphic and historical sources to o
 
 This personal GitHub page is to open my data to a wider public as I am a firm believer in #OpenScience and #Openaccess.
 
+### GIS for Classical Studies
+In 2019 [Jan Schneider](https://github.com/Schneider-Jan) and I conceived the plan to create a workshop to teach QGIS to people studying antiquity. This workshop became an online course during the COVID19 pandemic and can be found here: [QGIS for Classical Studies](https://github.com/Toletum-Network/QGIS_Classical_Studies). Since then we have been invited to give the course several times and we have created some smaller bespoke workshops.
+
 ### Civitates Hispaniae
 Within the ERC-project "An Empire of 2000 Cities" I have written my doctoral thesis published by Routledge as [*Urbanism of Roman Spain and Portugal*](https://www.taylorfrancis.com/books/mono/10.4324/9781003022800/urbanisation-roman-spain-portugal-pieter-houten). In the upcoming months I will publish more webmaps showing the results of this work.<br>
 The first map has been published. Check the description [here](https://github.com/PHAHouten/CivitatesHispaniae) or go directly to the [Juridical status map](https://phahouten.github.io/CivitatesHispaniae/#6/39.835/-0.284)
